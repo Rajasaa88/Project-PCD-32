@@ -13,8 +13,13 @@ F1D02310073 | M. Ali Abidillah Khotami
 ### Preprocessing yang digunakan:
 
 Percobaan 1: Resize dan Grayscale
+
 Percobaan 2: Resize, Grayscale, Ekualisasi dan Mean
+
 Percobaan 3: Resize, Grayscale, Ekualisasi, Median dan Gaussian Blur
+
 Percobaan 4: Resize, Grayscale, Ekualisasi, Median, Gaussian Blur dan Normalisasi
+
 Percobaan 5: Resize, Grayscale, Ekualisasi, Median, Gaussian Blur, Normalisasi dan Sobel
+
 Percobaan 6: Resize, Grayscale, Ekualisasi, Median, Gaussian Blur, Normalisasi dan Roberts
